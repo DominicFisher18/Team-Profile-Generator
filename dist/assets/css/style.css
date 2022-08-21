@@ -1,0 +1,35 @@
+nav {
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: lightgray;
+    padding-top: 0px;
+}
+
+.header {
+    border-bottom: 2px solid black;
+    background: white;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+h3 img {
+    width: 20px;
+}
+
+hr {
+    height: 10px;
+    background: grey;
+}
